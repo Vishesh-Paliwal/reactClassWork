@@ -1,0 +1,15 @@
+.tile{
+    height: 30vh;
+    width: 100vw;
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+}
+
+.right{
+    display: flex;
+    background-color: yellow;
+    flex-direction: row-reverse;
+}
+
